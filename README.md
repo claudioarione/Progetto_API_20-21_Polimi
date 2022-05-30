@@ -1,5 +1,5 @@
 # Progetto di API anno accademico 2020/21
-*Prova finale del corso di Algoritmi e Principi di Informatica del Polutecnico di Milano, anno scolastico 2020/2021.*   
+*Prova finale del corso di Algoritmi e Principi di Informatica del Politecnico di Milano, anno scolastico 2020/2021.*   
 ***Valutazione***: *30L/30*
 
 ## Specifiche
